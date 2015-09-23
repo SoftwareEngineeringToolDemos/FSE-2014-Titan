@@ -4,8 +4,10 @@ This repository is not the original repository for this tool. Below are some lin
 
 In this repository for Titan you will find:
 
-*:x: Source code (not available)
-*:x: The original tool (not available)
-*:white_check_mark: Demo Video
+* :x: Source code (not available)
+* :x: The original tool (not available)
+* :white_check_mark: Demo Video
 
 Titan is not available to redistribute or provide the source code. Please contact Lu Xiao (lx52@drexel.edu), Yuanfang Cai  (yfcai@cs.drexel.edu), and Rick Kazman (kazman@hawaii.edu) to receive an executable version of the tool to download and licensing information from Drexel University.
+
+This repository was constructed by [Chris Brown](https://github.com/EshaSharma) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Lu Xiao and Yuanfang Cai for providing their tool to us for this project and establishing this repository. 
