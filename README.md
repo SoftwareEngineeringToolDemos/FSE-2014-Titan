@@ -1,7 +1,7 @@
 This repository is contains information related to the tool Titan presented in Foundations of Software Engineering, 2014.
 The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2661677).
 
-This repository is not the original repository for this tool. Here are some links to the original project.
+This repository <b><i>is NOT</b></i> the original repository for this tool. Here are some links to the original project.
 
 * [Video of the Tool](https://art.cs.drexel.edu/~lx52/titan.mp4)
 
