@@ -2,7 +2,11 @@ This repository is contains information related to the tool Titan presented in F
 The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2661677).
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This repository <b><i>is NOT</i></b> the original repository for this tool.<br> 
+=======
+This repository <b><i>is NOT </i></b>the original repository for this tool.<br> 
+>>>>>>> origin/emojis-in-readme
 This repository does not contain:<br> 
 :x:<b>Source Code</b><br>
 :x:<b>Binary Distribution</b>
