@@ -8,7 +8,7 @@ This repository does not contain:<br>
 :x:<b>Binary Distribution</b>
 
 Here are some links to the original project.<br>
-* [Video of the Tool](https://art.cs.drexel.edu/~lx52/titan.mp4)
+* [Video of the Tool](https://drive.google.com/file/d/0B384dHeXAHG5cWJaMXllRlkxeTQ/view)
 
 Titan is not available to redistribute or provide the source code. Please contact Lu Xiao (lx52@drexel.edu), Yuanfang Cai  (yfcai@cs.drexel.edu), and Rick Kazman (kazman@hawaii.edu) to receive an executable version of the tool to download and licensing information from Drexel University.
 
