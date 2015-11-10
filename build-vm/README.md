@@ -6,9 +6,12 @@ How to create, start, and log in to VM:
    * vagrant up
  * Log in (If needed, the username and password are both "vagrant". You should be able to just click the Log In button without entering the password when opening the VM on Virtualbox but for some reason ssh'ing in with Putty still requires the password after I changed the permissions and password settings for sudo and .ssh in the image)
 
+***
+
 * Built VM contains at least one software prerequisite for tool: Java JDK
-* Built VM guest operating system contains same operating system as hand-built VM: Lubuntu
-* VM scripts rely on standard and stable external resources whenever possible (e.g., www.vagrantbox.es, rather than a hand-built box): https://hub.docker.com/r/dockerzone/lubuntu-desktop/
+* Built VM guest operating system contains same operating system as hand-built VM: Lubuntu 15.04
+
+***
 
 Various sources used:
 * https://docs.vagrantup.com/v2/getting-started/
