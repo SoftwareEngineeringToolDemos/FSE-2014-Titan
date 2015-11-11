@@ -7,7 +7,7 @@ How to create, start, and log in to VM:
 
 ***
 
-* Built VM contains at least one software prerequisite for tool: Java JDK
+* Built VM contains at least one software prerequisite for tool: Java 1.7 OpenJDK
 * Built VM guest operating system contains same operating system as hand-built VM: Lubuntu 14.04
 
 ***
