@@ -1,7 +1,7 @@
 __How to create, start, and log in to VM:__
  * Download and install Vagrant and VirtualBox
  * Initialize vagrant box (command line instructions in _italics_)
-   * _vagrant box init dcbrow10/vm-basic_ __or__ save Vagrantfile to local folder on your machine
+   * _vagrant box init dcbrow10/bladen-dcbrow10-titan-vagrant_ __or__ save Vagrantfile to local folder on your machine
    * _vagrant up_ //This may take a few minutes, but should add the box and start up the VM in VirtualBox.
  * Log in (If needed, the username and password are both "vagrant". You should be able to just click the Log In button without entering the password when opening the VM on Virtualbox but for some reason ssh'ing in with Putty still requires the password after I changed the permissions and password settings for sudo and .ssh in the image)
 
