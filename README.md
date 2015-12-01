@@ -6,6 +6,7 @@ This repository <b><i>is NOT </i></b>the original repository for this tool.<br>
 This repository does not contain:<br> 
 :x:<b>Source Code</b><br>
 :x:<b>Binary Distribution</b>
+:x:<b>Virtual Machine containing tool</b>
 
 Here are some links to the original project.<br>
 * [Video of the Tool](https://drive.google.com/file/d/0B384dHeXAHG5cWJaMXllRlkxeTQ/view)
